@@ -43,6 +43,11 @@ Creation du projet PHP :
 
 Ouvrir NetBeans en tant que root : 
 
+<img width="1907" height="1200" alt="image" src="https://github.com/user-attachments/assets/b1ecb697-01f7-45b0-bfb6-e034bb72cb78" />
+
+<img width="1907" height="1200" alt="image" src="https://github.com/user-attachments/assets/89c329cb-dd29-4f40-9253-a8fc8f7d911d" />
+
+
 
 
 
