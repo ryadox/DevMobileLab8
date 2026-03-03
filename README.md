@@ -35,5 +35,14 @@ Creation de la base des donnes :
 
 Partie 2 — Développement du Web Service PHP 8 :: 
 
+Creation du projet PHP : 
+
+<img width="1907" height="1200" alt="image" src="https://github.com/user-attachments/assets/ab9b44b6-cda7-4b4b-bd14-858792a942c7" />
+
+<img width="1907" height="1200" alt="image" src="https://github.com/user-attachments/assets/12a070b6-c00c-42dd-bb62-89c13c9aab93" />
+
+Ouvrir NetBeans en tant que root : 
+
+
 
 
