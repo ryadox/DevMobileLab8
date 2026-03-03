@@ -16,3 +16,22 @@ Partie 1 : Création de la base de données MySQL :
 installation de XAMPP : 
 
 <img width="356" height="386" alt="image" src="https://github.com/user-attachments/assets/914e9b83-90bc-4055-a790-444c01cb9a76" />
+
+On Active Apache et MySQL : 
+
+<img width="453" height="341" alt="image" src="https://github.com/user-attachments/assets/bd678323-6dc2-46e8-bb90-cc7850692776" />
+
+phpmyAdmin :: 
+
+<img width="1916" height="1200" alt="image" src="https://github.com/user-attachments/assets/d9075ee4-35dc-4476-8de8-e5bb8dbc4682" />
+
+Creation de la base des donnes : 
+
+<img width="1907" height="1200" alt="image" src="https://github.com/user-attachments/assets/8d49bda9-41ec-46d8-8b79-ecdca4da7b4e" />
+
+
+<img width="1907" height="1200" alt="image" src="https://github.com/user-attachments/assets/da61510e-2507-4ae1-9b02-7b51f0160645" />
+
+
+
+
